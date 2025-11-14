@@ -1,5 +1,0 @@
-{
-  "name": "Lampshade Pattern Generator",
-  "description": "A progressive web app to create and print custom patterns for drum, empire, or cone lampshades by entering your desired dimensions. The app calculates the exact shape and provides a downloadable SVG file.",
-  "requestFramePermissions": []
-}
